@@ -50,7 +50,7 @@
     "./Specs/**/*"
   ],
   "dependencies": {
-    "@cesium/engine": "^9.1.0",
+    "@cesium/engine": "./packages/engine",
     "@cesium/widgets": "^6.1.0"
   },
   "devDependencies": {
